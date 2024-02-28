@@ -19,6 +19,7 @@ closeBtn.addEventListener('click' ,addHiden)
    /* modal.classList.add('hidden')
     overlay.classList.add('hidden') */
 overlay.addEventListener('click' , addHiden)
+console.log(overlay);
     /*modal.classList.add('hidden')
     overlay.classList.add('hidden') */
 
